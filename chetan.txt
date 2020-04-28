@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FCDD-EA82
+
+ Directory of C:\Users\cheta\OneDrive\Desktop\project
+
+28-04-2020  13:12    <DIR>          .
+28-04-2020  13:12    <DIR>          ..
+28-04-2020  13:12                 0 chetan.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  426,509,905,920 bytes free
